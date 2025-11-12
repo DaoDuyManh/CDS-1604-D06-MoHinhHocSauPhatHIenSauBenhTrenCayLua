@@ -54,10 +54,10 @@ Ghi chú: Nếu PowerShell chặn script khi kích hoạt venv, chạy `Set-Exec
 - `requirements.txt` — thư viện cần cài.
 - `Model/` — chứa các mô hình đã huấn luyện.
 - `Rice Leaf Disease Images/`, `rice leaf diseases dataset/` — ảnh dữ liệu chia theo nhãn.
-
+- link data : https://drive.google.com/drive/folders/1V23bsm3YxLixJh39kGToP1n8EkNXG9bZ?usp=sharing
 ---
 
-## 🚀 4. Hướng dẫn chạy nhanh (demo)
+## 🚀 4. Hướng dẫn chạy
 
 1) Chạy inference với `test.py` (ví dụ):
 
